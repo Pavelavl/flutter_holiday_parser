@@ -1,3 +1,3 @@
-## flutter_holiday_parser
+## Flutter holiday parser
 
-#### Flutter mobile app parser from calend.ru 
+#### Flutter mobile app parser from calend.ru via RSS page.
